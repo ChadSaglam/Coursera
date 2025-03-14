@@ -1,0 +1,46 @@
+Task 1
+Title:  Create an assistant using playground
+
+OpenAI Assistants Playground => https://platform.openai.com/playground/assistants
+
+------
+Task 2
+Title:  Fine-tune the prompt 
+
+Mermaid Online Diagram Viewer => https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVjkFrwzAMhf-K0GmD5g_kMFiTrZfCButpcQ8iUWKz2DKOTSlJ_vucdoNNJ-m97z00YysdY4n9KJdWU4hwqpWDPM9NpYOZoqXpDEXxtBw4ghXH1wX2DweBSYv3xg2Pd36_QVDNxw1jiNq4r_VuVbf8m-MF6uZIPoo__3VOF1ngpTHvOtf_d3TgnHpteip7KloKUFG4IbhDy8GS6fL786YojJotKyzz2nFPaYwKlVszSinKx9W1WMaQeIdB0qAxd45TvpLvKHJtaAhkfxFP7lPE_kDrN7nAYR4
+
+-------------------
+Practice Activity 1
+Title: Create a text corrector
+
+AI engine prompt comparison => https://sdk.vercel.ai/
+
+-------------------P
+Practice Activity 2
+Title: Output the corrections from a word file
+
+------
+Task 3
+Title:  Activate the code interpreter
+ 
+Mermaid Online Diagram Viewer
+
+------
+Task 5
+Title:  Integrate OpenAI API with backend
+
+Backend Repository => https://github.com/zippo-lighter/fastapi-openai-api
+
+-----
+Task 6
+Title:  Display assistant output with MermaidJS
+
+Frontend Repository => https://github.com/zippo-lighter/assistant-frontend
+
+-------------------
+Cumulative Activity
+
+Title:  Create your Text corrector assistant
+
+Frontend Repository => https://github.com/zippo-lighter/assistant-frontend
+

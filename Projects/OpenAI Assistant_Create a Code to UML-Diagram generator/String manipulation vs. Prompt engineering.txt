@@ -1,0 +1,15 @@
+We have seen in Task 5 that Python string manipulation is more robust and reliable than prompt engineering. 
+Let's try yourself to see which is better!
+
+If you call this API you obtain a JSON containing a photo url. See the example below
+
+https://dog.ceo/api/breeds/image/random
+
+Code => 
+{
+  "message": "https://images.dog.ceo/breeds/affenpinscher/n02110627_4607.jpg",
+  "status": "success"
+}
+
+
+Try to obtain the only the filename from it (in this example "n02110627_4607.jpg" ) using Python string manipulation and then using prompt engineering.
